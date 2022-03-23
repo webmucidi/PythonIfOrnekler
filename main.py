@@ -33,7 +33,7 @@ else:
     print("GEÇTİNİZ :)")
 
 
-'''
+
 #Bu kısım dördüncü örnek kodları
 ortalama=float(input("Notunuzu giriniz:"))
 if ortalama>0 and ortalama<50:
@@ -46,6 +46,35 @@ elif ortalama>=85 and ortalama<=100:
   print("Takdir aldınız :)")
 else:
   print("Not girişi 0 ve 100 arasında olmalı")
+
+#Bu kısım beşinci örnek kodları
+
+yabanciDil=input("Yabancı dil biliyor musunuz? (EVET/HAYIR)")
+ofisProg=input("Ofis programlarını biliyor musunuz? (EVET/HAYIR)")
+
+if yabanciDil=="EVET" and ofisProg=="EVET":
+  print("Pazartesi gel başla.")
+else:
+  print("Biz sizi ararız!")
+  
+
+#Bu kısım altıncı örnek kodları
+
+kullaniciAdi=input("Kullanıcı adınızı giriniz:")
+sifre=input("Şifrenizi giriniz:")
+
+if kullaniciAdi=="Türkiye" and sifre=="1923":
+  print("Hoşgeldiniz")
+else:
+  print("Bilgiler yanlış!")
+'''
+
+
+                                                                
+
+                                                                                                                                                                            
+
+
 
 
 
